@@ -47,7 +47,7 @@
 			</AvailableForChannels>
       <PatchBank Name="A" >
   			<MIDICommands>
-  				<ControlChange Control="0" Value="63" />
+  				<ControlChange Control="0" Value="0" />
   				<ControlChange Control="32" Value="0" />
   			</MIDICommands>
   			<PatchNameList>
@@ -183,7 +183,7 @@
   		</PatchBank>
       <PatchBank Name="B" >
   			<MIDICommands>
-  				<ControlChange Control="0" Value="63" />
+  				<ControlChange Control="0" Value="0" />
   				<ControlChange Control="32" Value="1" />
   			</MIDICommands>
   			<PatchNameList>
@@ -319,7 +319,7 @@
   		</PatchBank>
       <PatchBank Name="C" >
   			<MIDICommands>
-  				<ControlChange Control="0" Value="63" />
+  				<ControlChange Control="0" Value="0" />
   				<ControlChange Control="32" Value="2" />
   			</MIDICommands>
   			<PatchNameList>
@@ -455,7 +455,7 @@
   		</PatchBank>
       <PatchBank Name="D" >
         <MIDICommands>
-          <ControlChange Control="0" Value="63" />
+          <ControlChange Control="0" Value="0" />
           <ControlChange Control="32" Value="3" />
         </MIDICommands>
         <PatchNameList>
@@ -591,7 +591,7 @@
       </PatchBank>
       <PatchBank Name="E" >
         <MIDICommands>
-          <ControlChange Control="0" Value="63" />
+          <ControlChange Control="0" Value="0" />
           <ControlChange Control="32" Value="4" />
         </MIDICommands>
         <PatchNameList>
@@ -727,7 +727,7 @@
       </PatchBank>
       <PatchBank Name="F" >
         <MIDICommands>
-          <ControlChange Control="0" Value="63" />
+          <ControlChange Control="0" Value="0" />
           <ControlChange Control="32" Value="5" />
         </MIDICommands>
         <PatchNameList>
@@ -863,7 +863,7 @@
       </PatchBank>
       <PatchBank Name="G" >
         <MIDICommands>
-          <ControlChange Control="0" Value="63" />
+          <ControlChange Control="0" Value="0" />
           <ControlChange Control="32" Value="6" />
         </MIDICommands>
         <PatchNameList>
